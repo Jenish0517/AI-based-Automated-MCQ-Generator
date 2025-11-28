@@ -1,5 +1,6 @@
 # AI-based-Automated-MCQ-Generator
  Created a Flask web application based on AI (Gemini API) to create MCQs  from user subjects or uploaded documents (PDF, DOCX, TXT). Provides  teacher and student modules with session key-based quiz access and  result tracking. This invention is mainly for educational purpose. 
+
 📘 AI-Based Automated MCQ Generator
 
 Generate high-quality multiple-choice questions automatically from text, PDFs, and study materials.
@@ -43,6 +44,7 @@ The primary use of the MCQ Generator is to reduce manual effort in creating ques
 🌐 Web-based interface (Flask/Java/Node depending on your project)
 
 ##🧠 Why This Project Is Useful
+
 ✔ Saves Time
 
 No need to manually create questions — the system produces many MCQs in seconds.
